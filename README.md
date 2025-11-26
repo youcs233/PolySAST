@@ -76,20 +76,6 @@ Dark Glassmorphism 设计语言，漏洞列表与代码查看器实时联动。�
 
 ---
 
-## 🏗️ Technology Stack
-
-PolySAST 采用现代化技术架构，兼顾性能、安全与用户体验：
-
-| 层级 | 技术选型 | 优势 |
-|------|---------|------|
-| **桌面框架** | Tauri 2 | 比 Electron 更轻量，原生级安全沙箱 |
-| **后端引擎** | Rust | 内存安全，零成本抽象，极致性能 |
-| **前端界面** | Vue 3 + Element Plus | 响应式 UI，组件化设计 |
-| **语法分析** | Tree-sitter | 增量解析，多语言支持，毫秒级响应 |
-| **并行计算** | Rayon | 自动负载均衡，充分利用多核 CPU |
-
----
-
 ## ⚡ Performance
 
 得益于 Rust + Rayon 的并行架构，PolySAST 能够充分利用现代多核处理器：
