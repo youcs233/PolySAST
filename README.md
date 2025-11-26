@@ -130,10 +130,9 @@ PolySAST 采用现代化技术架构，兼顾性能、安全与用户体验：
 
 ### Windows
 
-下载最新版本安装包：
+下载最新版本：
 
-- **[polysast_x64-setup.exe](https://github.com/youcs233/PolySAST/releases/latest)** (NSIS 安装程序)
-- **[polysast_x64.msi](https://github.com/youcs233/PolySAST/releases/latest)** (MSI 安装包)
+- **[polysast_x64.exe](https://github.com/youcs233/PolySAST/releases/latest)**
 
 ### macOS
 
