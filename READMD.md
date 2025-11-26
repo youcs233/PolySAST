@@ -124,12 +124,6 @@ PolySAST 采用现代化技术架构，兼顾性能、安全与用户体验：
    
    点击导出按钮，选择 HTML 或 CSV 格式保存审计报告。
 
-<div align="center">
-
-![Workflow](./screenshots/workflow.gif)
-
-</div>
-
 ---
 
 ## 📥 Installation
@@ -176,4 +170,5 @@ PolySAST 采用现代化技术架构，兼顾性能、安全与用户体验：
 Made with ❤️ by [youcs233](https://github.com/youcs233)
 
 </div>
+
 
