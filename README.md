@@ -7,13 +7,11 @@
 **极速 · 精准 · 智能 · 本地优先**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/youcs233/PolySAST)
-[![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS-lightgrey.svg)](#installation)
+[![Platform](https://img.shields.io/badge/platform-Windows%20)](#installation)
 [![Powered by](https://img.shields.io/badge/powered%20by-Rust%20+%20AI-orange.svg)](https://www.rust-lang.org/)
 [![Framework](https://img.shields.io/badge/framework-Tauri%202-24C8D8.svg)](https://tauri.app/)
 
 <br/>
-
-![PolySAST Dashboard](./screenshots/dashboard.png)
 
 *AST 语法分析 × AI 智能验证 — 重新定义代码审计体验*
 
