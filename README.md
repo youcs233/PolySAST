@@ -7,7 +7,7 @@
 **极速 · 精准 · 智能 · 本地优先**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/youcs233/PolySAST)
-[![Platform](https://img.shields.io/badge/platform-Windows%20)](#installation)
+[![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS-lightgrey.svg)](#installation)
 [![Powered by](https://img.shields.io/badge/powered%20by-Rust%20+%20AI-orange.svg)](https://www.rust-lang.org/)
 [![Framework](https://img.shields.io/badge/framework-Tauri%202-24C8D8.svg)](https://tauri.app/)
 
